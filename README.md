@@ -1,4 +1,4 @@
-# Titanic ML Model 🚢🔍
+# Titanic Survival ML Pridictions🚢🔍
 
 This repository contains a machine learning model built to predict survival outcomes from the Titanic dataset. This is a classic classification problem from the Kaggle Titanic Challenge.
 
